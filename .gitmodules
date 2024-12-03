@@ -1,3 +1,4 @@
 [submodule "crashpad-sys/crashpad"]
 	path = crashpad-sys/crashpad
-	url = https://github.com/yangby-cryptape/crashpad
+	url = https://github.com/gdesmott/crashpad.git
+	branch = cstdint
